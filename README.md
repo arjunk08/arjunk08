@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arjun%20Khanna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+student+at+Manipal+University+Jaipur;Building+Gen-AI+FinOps+Dashboard;Building+Veloce+for+gamers;Exploring+quantum+computing)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+FullStack+Apps;CS+student+at+Manipal+University+Jaipur;Exploring+quantum+computing;Building+Gen-AI+FinOps+Dashboard;Building+Veloce+for+gamers)
 
 </div>
 
