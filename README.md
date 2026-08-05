@@ -22,12 +22,22 @@ JWT auth, PostgreSQL, ChromaDB, CI via GitHub Actions, live across three separat
 - Live: [velocemusic.vercel.app](https://velocemusic.vercel.app)
 
 ---
+### Stack I use often
+
+| Languages | Frontend | Backend | AI/ML | Databases | Tools |
+|-----------|----------|---------|-------|-----------|-------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) | ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | | ![OpenAI](https://img.shields.io/badge/-OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white) |
+| | | | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | ![ChromaDB](https://img.shields.io/badge/-ChromaDB-3DDC84?style=flat-square&logo=python&logoColor=white) | |
+---
 
 ### What I'm exploring
 
-Quantum computing, working toward building quantum prediction models using Qiskit and Cirq. Still early, focused on getting the fundamentals of circuits and gates solid before anything more ambitious.
-![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![Cirq](https://img.shields.io/badge/-Cirq-FF6B35?style=flat-square&logo=python&logoColor=white)
+Quantum computing, working toward building quantum prediction models using ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white) and ![Cirq](https://img.shields.io/badge/-Cirq-FF6B35?style=flat-square&logo=python&logoColor=white). Still early, focused on getting the fundamentals of circuits and gates solid before anything more ambitious.
+
+
 
 
 ---
@@ -40,18 +50,6 @@ Outside of that, most of my time goes into building things end to end and unders
 
 ---
 
-### Stack I use often
-### Stack I use often
-
-| Languages | Frontend | Backend | Data & ML | Databases | Tools |
-|-----------|----------|---------|-----------|-----------|-------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) | | ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| | | | ![OpenAI](https://img.shields.io/badge/-OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | |
-| | | | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white) | ![ChromaDB](https://img.shields.io/badge/-ChromaDB-3DDC84?style=flat-square&logo=python&logoColor=white) | |
-
----
 
 ### GitHub activity
 
